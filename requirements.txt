@@ -1,0 +1,37 @@
+# ============================================
+# Trans Neural Network - Requirements
+# ============================================
+
+# Data Processing & Analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning & Preprocessing
+scikit-learn>=1.1.0
+
+# Deep Learning - PyTorch
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Deep Learning - TensorFlow/Keras
+tensorflow>=2.12.0
+
+# Transformer Model (Hugging Face)
+transformers>=4.30.0
+
+# Model Profiling (FLOPs Calculation)
+thop>=0.1.1
+
+# Safetensors (Model Weight Loading)
+safetensors>=0.3.0
+
+# Character Encoding Detection
+chardet>=5.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Notebook Support
+ipywidgets>=8.0.0
+jupyter>=1.0.0
